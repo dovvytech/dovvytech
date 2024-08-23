@@ -1,0 +1,89 @@
+body{
+  box-decoration-break: var(#00AAFF);
+    background-color: rgb(51, 47, 47);
+    background-image: url('dovvytech\ bg.png');
+}
+
+
+    .topnav  a {
+        float: left;
+        color: #070606;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: double;
+        box-shadow: 0 4px 8px rgba(0, 0, 0.21);
+        box-decoration-break: inherit;
+        text-transform: uppercase;
+        text-decoration-line: var(#070606);
+       margin: 0 10%;
+       background-color: rgb(0, 255, 13);
+       border-radius: 20px;
+
+       
+   
+}
+
+.topnav a:hover{
+    background-color: #7e1717;
+}
+.topnav{
+
+    display: block ;
+  
+    background-color: #333;
+}
+
+
+#container{
+
+    width: 80%;
+   /* Adjust the width of the container */
+   height: 10px; /* set a specific height for the container */
+   padding: 20px; /* add padding insight the container */
+
+    margin: 0 auto; 
+    margin-bottom:;
+    margin-top: 40px;
+    margin-color:rgb(223, 205, 208);
+  background-color:(red);
+  background: -webkit-linear-gradient(pink);
+border-radius: 10px;
+border-top-color: #FFFFFF;
+box-shadow: 0 4px 8px rgba(0, 0, 0.21);
+}
+.main-title{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    background-color: #0f0909;
+    border-style: groove;
+    border-radius: 20%;
+    border-color: rgb(105, 141, 141);
+    border-top-color: yellowe;
+    border: 2px solid red;
+    padding: 20px;
+    border-radius: 0px;
+    transition: border-radius 1s ease;/*animate the border radius*/
+border-radius: 50px; /* change border to be rounded on hover*/
+box-shadow: 0 4px 8px rgba(0, 0, 0.21);
+
+}
+.logo-text{
+    text-align: center;
+    color: #FFFFFF;
+    border-radius: 10px%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0.21);
+}
+.logo{
+border-radius: 20px;
+border-style: groove;
+padding: 20px;
+border: 2px solid red;
+box-shadow: 0 4px 8px rgba(0, 0, 0.21);
+box-decoration-break: clone;
+}
+h6{
+  size: 0 10px ;
+  line-height: 0%;
+width: 80%;
+}
